@@ -1,4 +1,4 @@
-<h1>Pricing Panel Project</h1>
+<h1>Pricing Panel</h1>
 
 <h2>Description</h2>
 This project is a responsive pricing panel designed to display different pricing options in a clean, user-friendly format. It focuses on delivering an intuitive layout with modern web design practices.
