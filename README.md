@@ -3,6 +3,8 @@
 ## Description
 This project is a responsive pricing panel designed to display different subscription plans in a clean, user-friendly format. It focuses on delivering an intuitive layout with modern web design practices.
 
+Check out my project [HERE](https://mikaebal.github.io/price-table-project/)
+
 ### Features
 
 - Responsive design that adapts to different screen sizes.
